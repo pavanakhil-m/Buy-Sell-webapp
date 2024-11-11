@@ -1,0 +1,29 @@
+# Ignore Maven build files
+target/
+
+# Ignore logs
+*.log
+
+# Ignore temp files
+*.tmp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IntelliJ files
+.idea/
+*.iml
+
+# Ignore Eclipse files
+*.classpath
+*.project
+*.settings/
+
+# Ignore OS files
+*.DS_Store
+
+# Ignore large artifacts
+*.jar
+*.war
+*.ear
